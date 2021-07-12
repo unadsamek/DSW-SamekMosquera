@@ -30,14 +30,14 @@ div{
 
 section{
     grid-column: 1/3;
-    background-color: dimgray;
+    background-color: white;
     color: indigo;
     padding: 3em;
 }
 
 aside{
     grid-column: 3/4;
-    background-color: lightcoral;
+    background-color: cornflowerblue;
     padding: 20px;
 }
 
